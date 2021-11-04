@@ -1,7 +1,5 @@
 <div align="center">
    
-### Lyandra Saito
-   
 ![img](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
    
 <a href="https://github.com/lyandrasaito">

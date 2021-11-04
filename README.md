@@ -28,7 +28,7 @@
    
    ---
    
-<a href="https://www.linkedin.com/in/lyandra-saito" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"> 
+<a href="https://www.linkedin.com/in/lyandra-saito"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
    
  ---
 

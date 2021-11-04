@@ -6,6 +6,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyandrasaito&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
+![img](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
+   
 <!--
 **lyandrasaito/lyandrasaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
